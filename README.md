@@ -1,5 +1,6 @@
 # CypressAutomation
 Prereqsites :
+IDE  # Visual Studio Code
 Install Node.js
 install cypress through below commands
 npm install cypress --save-dev
